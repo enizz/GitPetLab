@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitPetLab
 {
-    internal class Feline : Pet
+    internal class Lizard
     {
     }
 }
