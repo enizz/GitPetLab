@@ -12,6 +12,8 @@ namespace GitPetLab
 
         public int Birthdate { get; set; }
 
+        public int NumofLegs { get; set; }
+
 
         public int Age { get; set; }
 
