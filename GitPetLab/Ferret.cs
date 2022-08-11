@@ -8,7 +8,7 @@ namespace GitPetLab
 {
     internal class Ferret : Pet
     {
-
+        /// comment
     }
 
 }
